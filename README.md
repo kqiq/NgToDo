@@ -1,7 +1,17 @@
-# angularjsToDoapplication
-simple todoApplication using the angularjs 
+simple angular to do application
+================================
 
+* * *
 
-just open the terminal and type npm install to install all the dependencies
-run the server with no cache http-server -c0 -port (whatever);
-enjoy
+installation :
+--------------
+
+*   clone repo
+*   go to the project dir
+*   `npm install`
+
+### enjoy
+
+* * *
+
+[get stuck :D](www.google.com)
